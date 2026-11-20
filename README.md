@@ -1,3 +1,18 @@
+> **Dette er en demokopi, ikke Lær Kidsa Kodings offisielle repo.**
+>
+> Kopien hører til en pitch av et nytt kidsakoder.no (https://lkk-pitch.vercel.app). Der kan du prøve Verkstedet,
+> der lærere skriver oppgaver uten Markdown og Git. Det redaksjonen publiserer, blir en pull request her, og det som
+> flettes her, kommer ut på demosiden. Ingenting her sendes til LKK.
+>
+> Originalen er [kodeklubben/oppgaver](https://github.com/kodeklubben/oppgaver). Kopien har hele historikken
+> derfra. Oppgavene er lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.no), med
+> forfatterne som står i hver oppgave. Vil du bidra til de ekte oppgavene, gjør du det i originalen.
+>
+> _This is a demo copy for a pitch, not the official repository of Lær Kidsa Koding. The original is
+> [kodeklubben/oppgaver](https://github.com/kodeklubben/oppgaver). Lessons are licensed under CC BY-SA 4.0._
+
+---
+
 _English version below._
 
 
