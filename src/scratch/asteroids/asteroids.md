@@ -8,6 +8,8 @@ language: nb
 
 # Introduksjon {.intro}
 
+Denne skal avvises (2026-11-21T17-01-56-466Z).
+
 På slutten av 1970-tallet ga Atari ut to spill hvor man skulle kontrollere et
 romskip. Det første var Lunar Lander, men dette ble utkonkurrert av Asteroids
 som Atari ga ut noen måneder senere. Spillene var faktisk så like at de kunne
