@@ -31,5 +31,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.NORWEGIANMANGO }}
           publish_branch: master
-          publish_dir: ../codeclub-viewer/dist/lkk-oppgaver-nettside
+          publish_dir: ../codeclub-viewer/dist
           external_repository: sagatun/lkk-oppgaver-nettside
