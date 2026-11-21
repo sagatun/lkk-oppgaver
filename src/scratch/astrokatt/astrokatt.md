@@ -315,3 +315,5 @@ nett. Det er mulig å lagre på datamaskinen uten å være innlogget. Trykk på 
 og velg `Lagre på datamaskinen`.
 
 Endret rett i GitHub av en annen mens læreren skrev (2026-11-21T16-31-34-995Z).
+
+Endret rett i GitHub av en annen mens læreren skrev (2026-11-21T17-01-56-466Z).
