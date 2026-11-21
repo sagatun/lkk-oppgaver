@@ -16,7 +16,7 @@ jobs:
       - name: Clone codeclub-viewer
         run: git clone --depth=1 --branch=master https://github.com/sagatun/lkk-codeclub-viewer.git ../codeclub-viewer
       - name: Oppgavene der byggeverktøyet leter (../oppgaver; repoet heter lkk-oppgaver i demokopien)
-        run: ln -sfn "$GITHUB_WORKSPACE" ../oppgaver
+        run: cp -a "$GITHUB_WORKSPACE" ../oppgaver
       - name: Install Dependencies
         run: |
           cd ../codeclub-viewer
