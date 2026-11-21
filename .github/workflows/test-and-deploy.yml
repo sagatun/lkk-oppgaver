@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: '10'
       - name: Clone codeclub-viewer
-        run: git clone --depth=1 --branch=master https://github.com/kodeklubben/codeclub-viewer.git ../codeclub-viewer
+        run: git clone --depth=1 --branch=master https://github.com/sagatun/lkk-codeclub-viewer.git ../codeclub-viewer
       - name: Install Dependencies
         run: |
           cd ../codeclub-viewer
@@ -29,6 +29,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.NORWEGIANMANGO }}
           publish_branch: master
-          publish_dir: ../codeclub-viewer/dist
-          cname: oppgaver.kidsakoder.no
-          external_repository: kodeklubben/kodeklubben.github.io
+          publish_dir: ../codeclub-viewer/dist/lkk-oppgaver-nettside
+          external_repository: sagatun/lkk-oppgaver-nettside

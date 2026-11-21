@@ -4,6 +4,11 @@
 > der lærere skriver oppgaver uten Markdown og Git. Det redaksjonen publiserer, blir en pull request her, og det som
 > flettes her, kommer ut på demosiden. Ingenting her sendes til LKK.
 >
+> Kopien bygges som originalen: når noe flettes inn i `master`, bygger arbeidsflyten oppgavesiden med
+> [sagatun/lkk-codeclub-viewer](https://github.com/sagatun/lkk-codeclub-viewer) og publiserer den i
+> [sagatun/lkk-oppgaver-nettside](https://github.com/sagatun/lkk-oppgaver-nettside)
+> (https://sagatun.github.io/lkk-oppgaver-nettside/), i stedet for oppgaver.kidsakoder.no.
+>
 > Originalen er [kodeklubben/oppgaver](https://github.com/kodeklubben/oppgaver). Kopien har hele historikken
 > derfra. Oppgavene er lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.no), med
 > forfatterne som står i hver oppgave. Vil du bidra til de ekte oppgavene, gjør du det i originalen.
