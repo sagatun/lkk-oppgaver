@@ -316,3 +316,5 @@ spillet bli lagt ut på Scratch-hjemmesiden din slik at andre kan spille det.
 Merk at du må ha en bruker og være innlogget for å kunne lagre og legge ut på
 nett. Det er mulig å lagre på datamaskinen uten å være innlogget. Trykk på `Fil`
 og velg `Lagre på datamaskinen`.
+
+Endret rett i GitHub av en annen mens læreren skrev (2026-11-21T16-31-34-995Z).
