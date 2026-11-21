@@ -7,6 +7,8 @@ language: nb
 
 # Introduksjon {.intro}
 
+Kontroll av produksjonen (trekkes tilbake).
+
 Prøvesetning fra e2e-github 2026-11-21T17-01-56-466Z. Og en til.
 
 Prøvesetning fra e2e-github 2026-11-21T16-31-34-995Z. Og en til.
