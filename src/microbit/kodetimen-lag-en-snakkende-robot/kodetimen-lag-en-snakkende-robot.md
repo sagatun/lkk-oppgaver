@@ -5,7 +5,7 @@ language: nb
 ---
 
 # Introduksjon {.intro}
-  
+
 I denne oppgaven skal vi lage en robot i papir eller kartong og koble den opp mot en Micro:bit’en for å få den til å snakke!
 Figuren du skal lage er en robot, og kan se ut akkurat slik du vil. Du kan lage en klassisk robot, eller kanskje den ser ut som en ball? Eller en person? Her setter kun fantasien grenser!
 
@@ -17,19 +17,19 @@ Micro:bit'en har et panel med LED-pærer på fronten, og disse skal vi programme
 
 Figuren trenger ikke være større enn ca. 15-20 cm. Der munnen er plassert skal dere lage et firkantet hull på størrelse med Micro:bit'ens LED-panel (ca. 2,5 x 3 cm).
 
-Det kan være lurt at læreren klipper ut / skjærer ut hullet for de yngre barna.
+Det kan være lurt at læreren klipper ut / skjærer ut hullet for de yngre barna. 
 
 
 
 **Utstyret dere trenger:**
 
--[ ] 1 BBC Micro:bit med USB-kabel og batteripakke per elev/per gruppe
+- [ ] 1 BBC Micro:bit med USB-kabel og batteripakke per elev/per gruppe
 - [ ] Papir / kartong / filt til robotens kropp
 - [ ] Fargeblyanter eller tusjer
 - [ ] Teip
 - [ ] Saks
 - [ ] Øvrig hobby-materialer som f.eks:
-- [ ]  Klistermerker
+- [ ] Klistermerker
 - [ ] Rulleøyne
 - [ ] Glitter
 - [ ] Piperensere
@@ -48,6 +48,7 @@ Nå skal vi skrive den første algoritmen som får LED-pærene til å blinke.
 - [ ] Simulatoren til venstre skal nå vise en åpen munn.
 
 **Nå skal vi få munnen til roboten til å åpne og lukke seg!** 
+
 - [ ] Det vi gjør nå er å hente en Vis skjerm-kloss til. Den legges under "åpen munn"-klossen, og du skal nå lage en lukket munn i rutene. Den kan enten se ut som en rett strek, eller en smilende munn.
 
 
@@ -88,15 +89,15 @@ Dersom koden ikke havner på Micro:bit’en, kan du finne koden i nedlastings-ma
 
 
 # Steg 3: Monter din robot! {.activity}
- 
+
 
 **Nå skal vi sette sammen roboten!**
 Micro:bit'en kan enkelt festes til baksiden av roboten med teip. Du kan også teipe fast batteripakken til Micro:biten til baksiden av roboten. Du har nå en robot som beveger munnen sin opp og igjen!
 
 ## Utfordring {.challenge} 
+
 - [ ] Bruk iPaden eller PC'en din til å spille av en beskjed fra roboten. Bruk en av appene eller programmene dine til å gjøre et opptak av stemmen din. 
 
 - [ ] Kan du justere koden slik at munnen beveger seg i samme tempo som du snakker i klippet?
 
 - [ ] Legg til flere ansiktsuttrykk hos roboten din! Kanskje den skal ha en sur munn innimellom? Eller en sjokkert munn? Her kan du være kreativ!
-
